@@ -3,6 +3,8 @@
 /dist
 /WParser.egg-info
 /images
+/__pycache__
+/WParser/__pycache__
 /downloads
 *.log
 *.csv
