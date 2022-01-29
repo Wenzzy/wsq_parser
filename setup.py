@@ -5,7 +5,7 @@ from setuptools import setup
 
 """
 :authors: Wenzzy
-:copyright: (c) 2021 Wenzzy
+:copyright: (c) 2022 Wenzzy
 """
 
 version = '1.0.0'
