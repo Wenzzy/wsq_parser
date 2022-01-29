@@ -14,7 +14,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='WParser',
+    name='wsq_parser',
     version=version,
 
     author='Wenzzy',
@@ -25,10 +25,10 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
 
-    url='https://github.com/WenzzyX/WParser.git',
-    download_url='https://github.com/WenzzyX/WParser/archive/master.zip',
+    url='https://github.com/WenzzyX/wsq_parser.git',
+    download_url='https://github.com/WenzzyX/wsq_parser/archive/master.zip',
 
-    packages=['WParser'],
+    packages=['wsq_parser'],
     install_requires=['beautifulsoup4', 'fake-useragent', 'requests', 'lxml'],
 
     classifiers=[

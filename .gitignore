@@ -1,10 +1,10 @@
 /venv
 /.idea
 /dist
-/WParser.egg-info
+/wsq_parser.egg-info
 /images
 /__pycache__
-/WParser/__pycache__
+/wsq_parser/__pycache__
 /downloads
 *.log
 *.csv
