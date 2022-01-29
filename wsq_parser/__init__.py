@@ -6,4 +6,4 @@
 from .Parser import (Parser)
 
 __author__ = 'Wenzzy'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
