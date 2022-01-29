@@ -1,0 +1,9 @@
+/venv
+/.idea
+/dist
+/WParser.egg-info
+/images
+/downloads
+*.log
+*.csv
+main.py
